@@ -4,7 +4,7 @@
 
 # Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ammar and I'm a Full Stack developer. I'm from Israel, living in Kyrgyzstan, Bishkek and currently working at BakaiBank. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Ammar and I'm a Full Stack developer. I'm from Jerusalem, living in Kyrgyzstan, Bishkek and currently working at BakaiBank. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
